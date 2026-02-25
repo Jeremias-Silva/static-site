@@ -1,6 +1,6 @@
-<h1>##Static Site</h1>
+<h1>Static Site</h1>
 
-<h2>##Project Overview</h2>
+<h2>Project Overview</h2>
 
 This project is a training exercise we completed in the last class. 
 
@@ -12,11 +12,11 @@ It integrates three different types of files:
 To run the project, we deployed the files using GitHub Pages, allowing the project to be viewed directly in a web browser.
 
 
-<h2>##Key Features</h2>
+<h2>Key Features</h2>
 Integration of multiple file types into a single project
 Responsive and well-structured code
 Hosted and accessible via GitHub Pages
 
 
-<h2>##How to Run</h2>
+<h2>How to Run</h2>
 Simply visit the GitHub Pages URL associated with this repository to view the project in action.
