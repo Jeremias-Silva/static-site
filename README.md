@@ -20,3 +20,4 @@ Hosted and accessible via GitHub Pages
 
 <h2>How to Run</h2>
 Simply visit the GitHub Pages URL associated with this repository to view the project in action.
+https://jeremias-silva.github.io/static-site/
